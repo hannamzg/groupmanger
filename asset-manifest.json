@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/groupmanger/static/css/main.0d37b53b.css",
+    "main.js": "/groupmanger/static/js/main.c94c0e66.js",
+    "index.html": "/groupmanger/index.html",
+    "main.0d37b53b.css.map": "/groupmanger/static/css/main.0d37b53b.css.map",
+    "main.c94c0e66.js.map": "/groupmanger/static/js/main.c94c0e66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d37b53b.css",
+    "static/js/main.c94c0e66.js"
+  ]
+}
